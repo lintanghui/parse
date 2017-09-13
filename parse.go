@@ -40,7 +40,7 @@ Example:
 	 "net/http"
 	 "fmt"
 
-	 "go-common/parse"
+	 "github.com/lintanghui/parse
  )
  func main(){
 	type v struct {

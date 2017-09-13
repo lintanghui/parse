@@ -48,7 +48,7 @@ Example:
 	 "net/http"
 	 "fmt"
 
-	 "parse"
+	 "github.com/lintanghui/parse"
  )
  func main(){
 	type v struct {
